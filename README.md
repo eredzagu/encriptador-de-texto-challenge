@@ -4,9 +4,9 @@
 
 Encriptador y desencriptador de texto (HTML, CSS, JavaScript)
 
-Proyecto personal
+Alura Challenge - 1 
 
-Desarrollé un encriptador y desencriptador de texto en HTML, CSS y JavaScript como proyecto personal para mejorar mis habilidades en estos lenguajes y frameworks. La herramienta permite encriptar y desencriptar texto utilizando una clave personalizada. Por ejemplo, "gato" se puede encriptar como "gaitober" y luego desencriptar de nuevo como "gato".
+Desarrollé un encriptador y desencriptador de texto en HTML, CSS y JavaScript como challenge en el programa de Alura - LATAM para mejorar mis habilidades en estos lenguajes. La herramienta permite encriptar y desencriptar texto utilizando una clave personalizada. Por ejemplo, "gato" se puede encriptar como "gaitober" y luego desencriptar de nuevo como "gato".
 
 Utilicé una serie de herramientas y tecnologías, como GitHub para el control de versiones y Visual Studio Code como editor de código.
 
