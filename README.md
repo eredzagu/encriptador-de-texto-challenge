@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/102260190/201399352-c778ed9b-fe22-4428-b07d-fd6e047ae2ef.png)
-
 #Challenge Encriptador de texto de Alura Latam + Oracle
 
 Encriptador y desencriptador de texto (HTML, CSS, JavaScript)
